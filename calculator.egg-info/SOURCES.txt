@@ -1,0 +1,15 @@
+LICENSE
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+Calculator/__init__.py
+Calculator/app.py
+Calculator/mycalculator.py
+calculator.egg-info/PKG-INFO
+calculator.egg-info/SOURCES.txt
+calculator.egg-info/dependency_links.txt
+calculator.egg-info/entry_points.txt
+calculator.egg-info/requires.txt
+calculator.egg-info/top_level.txt
