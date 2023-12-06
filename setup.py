@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-  name = 'calculator',
+  name = 'Calculator',
   packages = find_packages(),
   include_package_data=True,
   version = '0.1',
@@ -34,6 +34,6 @@ setup(
   ],
   entry_points={
         "console_scripts": [
-            "calc = calculator.app:start_app",
+            "calc = Calculator.app:start_app",
         ]},
 )
