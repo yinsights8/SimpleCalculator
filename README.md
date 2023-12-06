@@ -12,7 +12,7 @@ In the following paragraphs, I am going to describe how you can get and use Scra
 
 To download pyarithcalc, either fork this github repo or simply use Pypi via pip.
 ```sh
-$ pip install claculator
+$ pip install pypiclaculator
 ```
 
 
