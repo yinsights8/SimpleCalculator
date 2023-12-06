@@ -1,2 +1,2 @@
-graft pycustomcalc/static
-graft pycustomcalc/templates
+graft Calculator/static
+graft Calculator/templates
