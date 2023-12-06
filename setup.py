@@ -9,7 +9,7 @@ setup(
   description = 'Simple Arithmetic Calculator',
   author = 'Yash Dhakade',
   author_email = 'yinsights8@gmail.com',
- # url = 'https://github.com/sourangshupal/pyarithcalc',
+ # url = 'https://github.com/yinsights8/SimpleCalculator',
  # download_url = 'https://github.com/sourangshupal/pyarithcalc/releases/download/0.5/pyarithcalc-0.5.tar.gz',
   keywords = ['calculator'],
   install_requires=[
@@ -34,6 +34,6 @@ setup(
   ],
   entry_points={
         "console_scripts": [
-            "calc = pycustomcalc.app:start_app",
+            "calc = calculator.app:start_app",
         ]},
 )
