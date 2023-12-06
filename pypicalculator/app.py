@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from pycustomcalc.mycalculator import Calculator
+from pypicalculator.mycalculator import Calculator
 import webbrowser
 from threading import Timer
 

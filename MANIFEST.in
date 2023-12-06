@@ -1,2 +1,2 @@
-graft Calculator/static
-graft Calculator/templates
+graft pypicalculator/static
+graft pypicalculator/templates
